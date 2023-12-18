@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+trulens-eval
+IPython
+llama_index
+streamlit_javascript
+psycopg2
